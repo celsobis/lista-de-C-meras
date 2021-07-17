@@ -1,0 +1,72 @@
+#EXTM3U
+
+
+
+#=============== Câmeras
+
+
+#EXTINF:-1 tvg-logo="" group-title="R. Francisco Londres x R. Cícero Meireles",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="R. Francisco Londres (Terminal de Integração)",
+http://187.19.219.52:1935/live/036.stream/chunklist_w277717450.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="R. Maciel Pinheiro x R. Barão do Triunfo",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="R. Maciel Pinheiro x R. Padre Azevedo",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Av. B. Rohan X R. Padre Azevedo",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Av. General Osorio x R. Peregrino de Carvalho",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Av. General Osorio x R. Guedes Pereira",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Av. General Osório X R. Irineu Pinto",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Praça 1817",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="R. Mal. Almeida Barreto x R. Rodrigues de Carvalho",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Av. D. Pedro II x R. Diogo Velho",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Parque Solon de Lucena x Av. Santo Elias",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Parque Solon x R. Padre Meira",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Av. Dom Pedro I x R. Des. Souto Maior",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Av. Pres. Getulio Vargas x Av. Princesa Isabel",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Av. Dom Pedro II x Av. Princesa Isabel",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Av. Pres. Getulio Vargas x Av. Tabajaras",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Av. João Machado x Rua Americo Falcão",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Av. Pedro II x Av. Maximiano de Fegueiredo",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Av. Duarte da Silveira x Av. Maximiano de Figueiredo",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Av. Monsenhor Walfredo Leal (Praça da Independéncia)",
+http://187.19.219.52:1935/live/035.stream/chunklist_w1053689199.m3u8
+
+
+
